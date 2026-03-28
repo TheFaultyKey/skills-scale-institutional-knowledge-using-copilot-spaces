@@ -19,6 +19,12 @@ Applies to all cross-functional projects that deliver product features, services
 - Developers: implement features, collaborate on design and testability.
 - QA/Testing: validate quality and acceptance criteria.
 - Stakeholders: provide inputs and approvals.
+- UX Designer: owns interaction design, accessibility, and user experience strategy.
+- Release Manager: coordinates and owns release execution, communications, and rollback plans.
+- Security Lead: ensures security best practices, leads threat analysis and incident response.
+- Customer Success Manager: represents customer voice, tracks adoption, and surfaces product gaps.
+
+*Added to clarify responsibilities across design, release ops, security, and customer-facing coordination.*
 
 ## Key Artifacts
 - Project Charter / One-pager
